@@ -8,7 +8,7 @@ Landing page para empresa de serviços em hospedagem de sites, desenvolvida no c
 Foi utilizada a biblioteca de icones do site https://cdnjs.com/
 
 ### Abordagem do projeto
-Foram abordados conceitos de HTML5 e CCS3 como estrutura semântica, formulários, estilização, responsividade para dispositivos móveis, notebooks e descktops
+Foram abordados conceitos de HTML5 e CCS3 como estrutura semântica, formulários, estilização, responsividade para dispositivos móveis, notebooks e desktops
 
 ### Projeto no Github Pages
 https://andre-francelino.github.io/Projeto-HDC-Host/
