@@ -10,8 +10,8 @@ Foi utilizada a biblioteca de icones do site https://cdnjs.com/
 ### Abordagem do projeto
 Foram abordados conceitos de HTML5 e CCS3 como estrutura semântica, formulários, estilização, responsividade para dispositivos móveis, notebooks e desktops
 
-### Projeto no Github Pages
-https://andre-francelino.github.io/Projeto-HDC-Host/
+### Deploy do projeto no Netlify
+[https://andre-francelino.github.io/Projeto-HDC-Host/](https://main--projecthdchost.netlify.app/)
 
 https://github.com/Andre-Francelino/Projeto-HDC-Host/assets/107659656/dc400584-e61e-4008-b12c-e72a493246a0
 
